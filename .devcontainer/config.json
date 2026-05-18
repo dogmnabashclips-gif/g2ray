@@ -27,10 +27,10 @@
       "settings": {
         "clients": [
           {
-            "id": "53f02114-cdad-4398-b195-49bcb0643797",
+            "id": "b431bf8f-d4eb-44b9-ab97-5488a77ccd8e",
             "flow": "",
             "level": 0,
-            "email": "user@dogm"
+            "email": "user@Test"
           }
         ],
         "decryption": "none"
